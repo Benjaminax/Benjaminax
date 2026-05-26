@@ -1,15 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on = A third-person shooter game built with Unreal Engine 5 and C++, featuring advanced combat systems, enemy AI, and immersive level design.
+#  About Me:
+I’m currently working on = A third-person shooter game built with Unreal Engine 5 and C++, featuring advanced combat systems, enemy AI, and immersive level design.
 
-🤝 I’m looking to collaborate on = Game development projects in Unreal Engine 5 or Unity, as well as full-stack web applications using React and Node.js.
+I’m looking to collaborate on = Game development projects in Unreal Engine 5 or Unity, as well as full-stack web applications using React and Node.js.
 
-🛠️ I’m looking for help with = Game performance optimization, including rendering, physics, AI pathfinding, and multiplayer/networking systems.
+I’m looking for help with = Game performance optimization, including rendering, physics, AI pathfinding, and multiplayer/networking systems.
 
-🌱 I’m currently learning = Advanced Unreal Engine 5 gameplay architecture, shader programming, and backend scaling with Docker and Azure.
+I’m currently learning = Advanced Unreal Engine 5 gameplay architecture, shader programming, and backend scaling with Docker and Azure.
 
-💬 Ask me about = Full-stack development (React, Node.js, Java, Spring Boot), game development (UE5, Unity, C++, C#), and building scalable platforms for 300+ users.
+Ask me about = Full-stack development (React, Node.js, Java, Spring Boot), game development (UE5, Unity, C++, C#), and building scalable platforms for 300+ users.
 
-⚡ Fun fact = Before graduating in 2027, I built a Flappy Bird clone in Unity, a target-shooting game in UE5, and a media library tool powered by regex and fuzzy matching.
+Fun fact = Before graduating in 2027, I built a Flappy Bird clone in Unity, a target-shooting game in UE5, and a media library tool powered by regex and fuzzy matching.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.benjamin.a._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benjamin-acheampong-7274b12a1/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/kojoben29)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kojoben29@gmail.com) 
